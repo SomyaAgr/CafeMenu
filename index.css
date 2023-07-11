@@ -5,6 +5,7 @@ body {
 
 h1 {
     font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h2 {
@@ -28,11 +29,6 @@ p {
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
-}
-
-h1,
-h2 {
-    font-family: Impact, serif;
 }
 
 .item p {
