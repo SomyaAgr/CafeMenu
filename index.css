@@ -5,12 +5,14 @@ body {
 }
 
 h1 {
+  font-family: Impact, serif;
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
 
 h2 {
+  font-family: Impact, serif;
   font-size: 30px;
 }
 
@@ -47,10 +49,6 @@ hr {
 
 .bottom-line {
   margin-top: 25px;
-}
-
-h1, h2 {
-  font-family: Impact, serif;
 }
 
 .item p {
