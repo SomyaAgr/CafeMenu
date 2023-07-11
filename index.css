@@ -73,10 +73,6 @@ footer {
   font-size: 14px;
 }
 
-.address {
-  margin-bottom: 5px;
-}
-
 a {
   color: black;
 }
@@ -91,4 +87,8 @@ a:hover {
 
 a:active {
   color: brown;
+}
+
+.address {
+  margin-bottom: 5px;
 }
