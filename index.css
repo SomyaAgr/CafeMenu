@@ -19,10 +19,16 @@ p {
     display: inline-block;
 }
 
-.flavor,.dessert {
+.flavor,
+.dessert {
+    text-align: left;
+    width: 75%;
+}
+
+/* .dessert{
     text-align: left;
     width:75%;
-}
+} */
 
 .price {
     text-align: right;
